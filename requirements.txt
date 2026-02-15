@@ -11,3 +11,4 @@ sqlalchemy
 python-multipart
 langgraph
 langchain-huggingface
+sentence-transformers
