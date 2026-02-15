@@ -1,0 +1,104 @@
+==============================
+MLCOE – Machine Learning Centre of Excellence
+==============================
+
+ABOUT MLCOE:
+Machine Learning Centre of Excellence (MLCOE) is a student society promoting Machine Learning, Web Development, Designing, projects and events on campus.
+
+HISTORY:
+MLCOE was founded in August 2023 to encourage Machine Learning, Web Development learning and practical projects among students.
+
+FACULTY COORDINATOR:
+Dr. Sonam Gupta is the current faculty coordinator of MLCOE.
+
+--------------------------------------------------
+MLCOE CORE MEMBERS
+--------------------------------------------------
+
+Head of MLCOE:
+Om Manoj Sharma (Year 4) – Machine Learning
+
+Managerial Head of MLCOE:
+Kavyansh Gupta (Year 4) – Machine Learning
+
+Female Head of MLCOE:
+Vanshika Goyal (Year 4) – Machine Learning and Designing
+
+--------------------------------------------------
+MLCOE MEMBERS – YEAR 4
+--------------------------------------------------
+
+DevRoop Saha – Machine Learning
+Sardul Raajendran – Web Development
+OmDeep Tyagi – Web Development
+Kunj Tyagi – Web Development
+
+--------------------------------------------------
+MLCOE MEMBERS – YEAR 3
+--------------------------------------------------
+
+Akash Varshney – Machine Learning
+Satvat Navid – Machine Learning
+Mohd Kaif – Machine Learning
+Om Mudgal – Machine Learning and Designing
+Lavanya Singh – Machine Learning
+Naina Varshney – Machine Learning
+Ankita Maurya – Machine Learning
+Kanishka Jha – App Development and Designing
+Mohd Ziya – Web Development
+Arpit Pandey – Web Development
+Shaurya Awasthi – Web Development
+Raghav Mittal – Web Development
+Ragini Goel – Web Development
+Shubham Gupta – Web Development
+Shreya Mishra – Web Development
+Shubhangi Singh – Web Development
+
+--------------------------------------------------
+MLCOE MEMBERS – YEAR 2
+--------------------------------------------------
+
+Aman Verma – Machine Learning
+Harsh Giri – Machine Learning
+Rishant Gupta – Machine Learning
+Dishant Singh – Machine Learning
+Harsh Raj – Machine Learning
+Radhika Rajput – Machine Learning
+Anjali Sirohi – Machine Learning
+Manjiri Sharma – Machine Learning
+Raunak Batra – Machine Learning and Designing
+Adeed Khan – Web Development
+Somu Sharma – Web Development
+Ujjawal Chauhan – Web Development
+Shreya Singh – Web Development
+Akshat Sharma – Web Development
+Shivansh Singh – Web Development
+Netra Bansal – Designing
+
+--------------------------------------------------
+MLCOE ALUMNI – BATCH 2025
+--------------------------------------------------
+
+Vibhu Dixit  
+Position: Data Scientist  
+Company: BeneFi Global  
+Package: 31 LPA  
+
+Dev Brat Tripathi  
+Position: Data Scientist  
+Company: ASBL (Ashoka Builders India Private Limited)  
+Package: 22.5 LPA  
+
+Aman Singh  
+Position: Associate Software Engineer  
+Company: Antino  
+Package: 20 LPA  
+
+Anant Tyagi  
+Position: Associate Software Engineer (AI)  
+Company: Aviara Labs  
+Package: 21 LPA  
+
+--------------------------------------------------
+END OF MLCOE INFORMATION
+--------------------------------------------------
