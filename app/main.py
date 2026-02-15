@@ -3,15 +3,10 @@ from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 
 from app.api.routes import router
-from app.database.models import Base
-from app.database.db import engine
 from app.services.ingestion_service import load_documents
 from app.services.chunking_service import chunk_documents
 from app.services.vectorstore_service import create_vectorstore
 from app.core.config import DATA_PATH
-
-# Create tables if not exist
-Base.metadata.create_all(bind=engine)
 
 # Lifespan handler (modern replacement for on_event)
 @asynccontextmanager
@@ -38,7 +33,7 @@ app = FastAPI(
 # Add CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://your-vercel-url.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
