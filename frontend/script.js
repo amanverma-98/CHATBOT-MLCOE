@@ -1,4 +1,4 @@
-const API_URL = "https://your-render-url.onrender.com";
+const API_URL = "https://chatbot-mlcoe.onrender.com/";
 
 function handleKey(event) {
     if (event.key === "Enter") {
