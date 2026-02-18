@@ -33,7 +33,7 @@ app = FastAPI(
 # Add CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://mlcoechatbot.vercel.app/" , "https://chatbot-mlcoe-i2id.vercel.app/"],
+    allow_origins=["https://mlcoechatbot.vercel.app" , "https://chatbot-mlcoe-i2id.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
